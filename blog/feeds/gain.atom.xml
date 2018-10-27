@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - gain</title><link href="https://mdecadp2018.github.io/site-40623110/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623110/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623110/blog/</id><updated>2018-09-28T11:00:00+08:00</updated><entry><title>第三週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w3-gain.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623110/blog/40623110-w3-gain.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;在test的資料夾下，在cmd輸入git init，會使其資料夾中出現.git的檔案。&lt;/p&gt;
+&lt;p&gt;在test的資料夾下，創建myprogram.txt去Scite更改內容，每次更改完最好都要有清楚的commit的名稱，方便今後去更改到自己要使用的版本。(需要git add . 與 git commit -m "
+xxx" 與 git push )。&lt;/p&gt;
+&lt;p&gt;git checkout xxxxxxx 可用來切換版本&lt;/p&gt;
+&lt;p&gt;git init 讓資料夾出現.git檔案&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第二週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w2-gain.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623110/blog/40623110-w2-gain.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;ShareX&lt;/p&gt;
+&lt;p&gt;錄影=Shift+print Screen&lt;/p&gt;
+&lt;p&gt;截圖=Ctrl+print Screen&lt;/p&gt;
+&lt;p&gt;git branch 可確認github的版本&lt;/p&gt;
+&lt;p&gt;python wsgi.py 可得到自己的近端網址，並打開伺服器，不輸入會連不上localhost:8443。&lt;/p&gt;
+&lt;p&gt;在近端更新資料完成後一定要按一下generate-pages轉成靜態網頁，要關掉cmd的python wsgi.py才能git push。&lt;/p&gt;
+&lt;p&gt;靜態網頁的資料會存在 Y:/tmp/site/content&lt;/p&gt;
+&lt;p&gt;圖片的資料會存在 Y:/tmp/site/images&lt;/p&gt;
+&lt;p&gt;文件的資料會存在 Y:/tmp/site/downloads&lt;/p&gt;
+&lt;p&gt;config→reveal.leo可以更改投影片&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;          →pelican.leo可以用來轉近端or遠端
+&lt;/pre&gt;&lt;/div&gt;</content><category term="gain"></category></entry><entry><title>第一週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w1-gain.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623110/blog/40623110-w1-gain.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;學習如何解決git push的問題，並找出其問題所在。 &lt;/p&gt;</content><category term="gain"></category></entry></feed>
