@@ -25,11 +25,18 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181102214753.1" a="E"><vh>W1</vh>
-<v t="leo.20181102214753.2" a="E"><vh>第一週上課內容或心得</vh>
+<v t="leo.20181102214753.2" a="E"><vh>week1</vh>
 <v t="leo.20181102214753.3"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20181102214753.4" a="E"><vh>影片</vh>
-<v t="leo.20181102214753.5"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181102221844.1" a="E"><vh>W2</vh>
+<v t="leo.20181102221844.2" a="E"><vh>week2</vh>
+<v t="leo.20181102221844.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181102221845.1" a="E"><vh>W3</vh>
+<v t="leo.20181102221845.2" a="E"><vh>week3</vh>
+<v t="leo.20181102221845.3"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -347,7 +354,57 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102214753.3">## 第一週課程內容
+<t tx="leo.20181102214753.3">## 第一週上課筆記及心得
+學習如何解決git push的問題，並找出其問題所在。 </t>
+<t tx="leo.20181102221844.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102221844.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102221844.3">## 第二週上課筆記
+ShareX
+
+錄影=Shift+print Screen
+
+截圖=Ctrl+print Screen
+
+git branch 可確認github的版本
+
+python wsgi.py 可得到自己的近端網址，並打開伺服器，不輸入會連不上localhost:8443。
+
+在近端更新資料完成後一定要按一下generate-pages轉成靜態網頁，要關掉cmd的python wsgi.py才能git push。
+
+靜態網頁的資料會存在 Y:/tmp/site/content
+
+圖片的資料會存在 Y:/tmp/site/images
+
+文件的資料會存在 Y:/tmp/site/downloads
+
+config→reveal.leo可以更改投影片
+
+              →pelican.leo可以用來轉近端or遠端</t>
+<t tx="leo.20181102221845.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102221845.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102221845.3">## 第三週上課筆記
 
 * 帶耳機 筆記本 隨身碟  
 
@@ -356,23 +413,5 @@ make.start()
 * 內容為CMSimfly、reveal 簡報、pelican 網誌與網站。
 
 </t>
-<t tx="leo.20181102214753.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181102214753.5">* 第一週的回家作業
-
-[Week 1 Homework](https://www.youtube.com/watch?v=3-pxgm2PKWc)
-
-* 第一週的上課影片
-
-[說明如何管理個人的期中作業網站內容](https://reurl.cc/NXx95)
-
-[說明如何利用 p37 中的 git 建立個人的 Github Pages 網站](https://reurl.cc/R6kgn)
-
-[說明如何管理期中作業倉儲中的網際投影片k](https://reurl.cc/V3Wg6)</t>
 </tnodes>
 </leo_file>
