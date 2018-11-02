@@ -21,13 +21,21 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102214753.1" a="E"><vh>W1</vh>
+<v t="leo.20181102214753.2" a="E"><vh>第一週上課內容或心得</vh>
+<v t="leo.20181102214753.3"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181102214753.4" a="E"><vh>影片</vh>
+<v t="leo.20181102214753.5"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -326,5 +334,42 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181102214753.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102214753.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102214753.3">## 第一週課程內容
+
+* 帶耳機 筆記本 隨身碟  
+
+* 去Week1裡面的 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業，一至八週的心得及影片全部都要整理到這個倉儲裡面，第九週會做自評成績。
+* CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
+
+</t>
+<t tx="leo.20181102214753.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102214753.5">* 第一週的回家作業
+
+[Week 1 Homework](https://youtu.be/DRXPYEtOqZ0)
+
+* 第一週的上課影片
+
+[說明如何管理個人的期中作業網站內容](https://www.youtube.com/watch?v=sD9slKyFNao)
+[說明如何利用 p37 中的 git 建立個人的 Github Pages 網站](https://youtu.be/ax2ZuPm3YXc
+[說明如何管理期中作業倉儲中的網際投影片k](https://www.youtube.com/watch?v=3SR7vom0YA8)</t>
 </tnodes>
 </leo_file>
