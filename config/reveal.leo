@@ -355,9 +355,12 @@ make.start()
 
 </t>
 <t tx="leo.20181102214753.3">## 第一週上課內容
-*如何管理個人的期中作業網站內容
-*如何利用p37中的git建立個人的Github Pages網站
-*如何管理期中作業倉儲中的網際投影片</t>
+
+* 如何管理個人的期中作業網站內容
+
+* 如何利用p37中的git建立個人的Github Pages網站
+
+* 如何管理期中作業倉儲中的網際投影片</t>
 <t tx="leo.20181102221844.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -371,9 +374,11 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102221844.3">## 第二週上課筆記
-*如何以ShareX錄影, 以及管理CMSimfly的作業倉儲
-*如何管理網際投影片與網誌</t>
+<t tx="leo.20181102221844.3">## 第二週上課內容
+
+* 如何以ShareX錄影, 以及管理CMSimfly的作業倉儲
+
+* 如何管理網際投影片與網誌</t>
 <t tx="leo.20181102221845.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -389,8 +394,11 @@ make.start()
 </t>
 <t tx="leo.20181102221845.3">## 每週作業
 [Week 1 Homework](https://www.youtube.com/watch?v=3-pxgm2PKWc)
+
 [Week 2 Homework](https://www.youtube.com/watch?v=Ri0vDlJylKg)
+
 [Week 3 Homework](https://www.youtube.com/watch?v=c-PShODzIIo)
+
 [Week 4 Homework](https://www.youtube.com/watch?v=hQ_99LD-RLQ)</t>
 </tnodes>
 </leo_file>
