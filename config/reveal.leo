@@ -352,7 +352,8 @@ make.start()
 * 帶耳機 筆記本 隨身碟  
 
 * 去Week1裡面的 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業，一至八週的心得及影片全部都要整理到這個倉儲裡面，第九週會做自評成績。
-* CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
+
+* 內容為CMSimfly、reveal 簡報、pelican 網誌與網站。
 
 </t>
 <t tx="leo.20181102214753.4">&lt;section data-markdown&gt;
@@ -364,12 +365,14 @@ make.start()
 </t>
 <t tx="leo.20181102214753.5">* 第一週的回家作業
 
-[Week 1 Homework](https://youtu.be/DRXPYEtOqZ0)
+[Week 1 Homework](https://www.youtube.com/watch?v=3-pxgm2PKWc)
 
 * 第一週的上課影片
 
-[說明如何管理個人的期中作業網站內容](https://www.youtube.com/watch?v=sD9slKyFNao)
-[說明如何利用 p37 中的 git 建立個人的 Github Pages 網站](https://youtu.be/ax2ZuPm3YXc
-[說明如何管理期中作業倉儲中的網際投影片k](https://www.youtube.com/watch?v=3SR7vom0YA8)</t>
+[說明如何管理個人的期中作業網站內容](https://reurl.cc/NXx95)
+
+[說明如何利用 p37 中的 git 建立個人的 Github Pages 網站](https://reurl.cc/R6kgn)
+
+[說明如何管理期中作業倉儲中的網際投影片k](https://reurl.cc/V3Wg6)</t>
 </tnodes>
 </leo_file>
