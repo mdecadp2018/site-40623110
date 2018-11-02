@@ -24,14 +24,34 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102214753.1" a="E"><vh>W1</vh>
+<v t="leo.20181102214753.1"><vh>W1</vh>
 <v t="leo.20181102214753.2" a="E"><vh>week1</vh>
 <v t="leo.20181102214753.3"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20181102221844.1" a="E"><vh>W2</vh>
+<v t="leo.20181102221844.1"><vh>W2</vh>
 <v t="leo.20181102221844.2" a="E"><vh>week2</vh>
 <v t="leo.20181102221844.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181102231239.1" a="E"><vh>W3</vh>
+<v t="leo.20181102231239.2" a="E"><vh>week3</vh>
+<v t="leo.20181102231239.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181102231247.1" a="E"><vh>W4</vh>
+<v t="leo.20181102231247.2" a="E"><vh>week4</vh>
+<v t="leo.20181102231247.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181102231250.1" a="E"><vh>W5</vh>
+<v t="leo.20181102231250.2" a="E"><vh>week5</vh>
+<v t="leo.20181102231250.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181102231302.1" a="E"><vh>W6</vh>
+<v t="leo.20181102231302.2" a="E"><vh>week6</vh>
+<v t="leo.20181102231302.3"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20181102221845.1" a="E"><vh>每週作業</vh>
@@ -400,5 +420,80 @@ make.start()
 [Week 3 Homework](https://www.youtube.com/watch?v=c-PShODzIIo)
 
 [Week 4 Homework](https://www.youtube.com/watch?v=hQ_99LD-RLQ)</t>
+<t tx="leo.20181102231239.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102231239.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102231239.3">## 第三週上課內容
+
+* git的基本操作練習
+</t>
+<t tx="leo.20181102231247.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102231247.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102231247.3">## 第四週上課內容
+
+* Onshape Week1課程使用說明
+
+* CMSimfly開發過程改版與除錯流程</t>
+<t tx="leo.20181102231250.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102231250.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102231250.3">## 第五週上課內容
+
+* Onshape設計繪圖說明
+
+* 如何利用Variable定義簡化繪圖流程
+
+* 從OnshapeWeek1課程到OnshapeWeek2</t>
+<t tx="leo.20181102231302.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181102231302.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102231302.3">## 第六週上課內容
+
+* 有關人事時地物等關鍵內容的架構安排
+
+* 如何升級最新的 CMSimfly
+
+* 說明管理內容流程</t>
 </tnodes>
 </leo_file>
