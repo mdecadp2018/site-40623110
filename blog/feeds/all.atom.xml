@@ -12,12 +12,14 @@
 
 &lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;虛擬主機用brigde(橋接)網路的話，網路位階會相同。&lt;/p&gt;
-&lt;p&gt;IPV4:140.130.17.3&lt;/p&gt;
+&lt;p&gt;IPV4:
+             140.130.17.3&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;         140.130.1.2
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;IPV6:2001:288:6004:17::3(系)&lt;/p&gt;
+&lt;p&gt;IPV6:
+             2001:288:6004:17::3(系)&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;         2001:288:6004:1::2(校)
 
          2001:b000:168::1(hinet)
