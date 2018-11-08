@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181102214753.1"><vh>W1</vh>
@@ -34,7 +34,7 @@
 <v t="leo.20181102221844.3"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20181102231239.1" a="E"><vh>W3</vh>
+<v t="leo.20181102231239.1"><vh>W3</vh>
 <v t="leo.20181102231239.2" a="E"><vh>week3</vh>
 <v t="leo.20181102231239.3"><vh>newHeadline</vh></v>
 </v>
@@ -52,6 +52,16 @@
 <v t="leo.20181102231302.1" a="E"><vh>W6</vh>
 <v t="leo.20181102231302.2" a="E"><vh>week6</vh>
 <v t="leo.20181102231302.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181109005828.1" a="E"><vh>W7</vh>
+<v t="leo.20181109005828.2" a="E"><vh>week7</vh>
+<v t="leo.20181109005828.3"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181109005830.1" a="E"><vh>W8</vh>
+<v t="leo.20181109005830.2" a="E"><vh>week8</vh>
+<v t="leo.20181109005830.3"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20181102221845.1" a="E"><vh>每週作業</vh>
@@ -167,7 +177,7 @@ vertical: body pane on the botton</t>
 Created by [40623110](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[40623110的部落格](./../blog/index.html)
 
 
 </t>
@@ -380,7 +390,9 @@ make.start()
 
 * 如何利用p37中的git建立個人的Github Pages網站
 
-* 如何管理期中作業倉儲中的網際投影片</t>
+* 如何管理期中作業倉儲中的網際投影片
+
+</t>
 <t tx="leo.20181102221844.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -398,7 +410,9 @@ make.start()
 
 * 如何以ShareX錄影, 以及管理CMSimfly的作業倉儲
 
-* 如何管理網際投影片與網誌</t>
+* 如何管理網際投影片與網誌
+
+</t>
 <t tx="leo.20181102221845.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -419,7 +433,9 @@ make.start()
 
 [Week 3 Homework](https://www.youtube.com/watch?v=c-PShODzIIo)
 
-[Week 4 Homework](https://www.youtube.com/watch?v=hQ_99LD-RLQ)</t>
+[Week 4 Homework](https://www.youtube.com/watch?v=hQ_99LD-RLQ)
+
+</t>
 <t tx="leo.20181102231239.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -454,7 +470,9 @@ make.start()
 
 * Onshape Week1課程使用說明
 
-* CMSimfly開發過程改版與除錯流程</t>
+* CMSimfly開發過程改版與除錯流程
+
+</t>
 <t tx="leo.20181102231250.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -474,7 +492,9 @@ make.start()
 
 * 如何利用Variable定義簡化繪圖流程
 
-* 從OnshapeWeek1課程到OnshapeWeek2</t>
+* 從OnshapeWeek1課程到OnshapeWeek2
+
+</t>
 <t tx="leo.20181102231302.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -494,6 +514,49 @@ make.start()
 
 * 如何升級最新的 CMSimfly
 
-* 說明管理內容流程</t>
+* 說明管理內容流程
+
+</t>
+<t tx="leo.20181109005828.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181109005828.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109005828.3">## 第七週上課內容
+
+* 如何利用Virtualbox安裝Ubuntu18.04.1伺服器
+
+* 如何在先前所建立的虛擬Ubuntu18.04上啟動https協定下的FossilSCM伺服器
+
+* 如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統
+
+</t>
+<t tx="leo.20181109005830.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20181109005830.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109005830.3">## 第八週上課內容
+
+* 機電資整合設計專案流程所需的相關套件運用與技術
+
+
+</t>
 </tnodes>
 </leo_file>
