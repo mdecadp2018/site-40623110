@@ -1,38 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623110 翁俊揚 - gain</title><link href="https://mdecadp2018.github.io/site-40623110/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623110/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623110/blog/</id><updated>2018-10-19T11:00:00+08:00</updated><entry><title>第六週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w6-gain.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623110/blog/40623110-w6-gain.html</id><summary type="html">&lt;p&gt;第六週上課心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第六週上課心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623110 翁俊揚 - gain</title><link href="https://mdecadp2018.github.io/site-40623110/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623110/blog/feeds/gain.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623110/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>第八週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w8-gain.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623110/blog/40623110-w8-gain.html</id><summary type="html">&lt;p&gt;第八週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第八週上課心得整理&lt;/p&gt;
 
 
-&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
+&lt;p&gt;人事時地物&lt;/p&gt;
+&lt;p&gt;完成12週的Onshape後，改做V-rep去寫python或Lua的程式。&lt;/p&gt;
+&lt;p&gt;雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第七週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w7-gain.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623110/blog/40623110-w7-gain.html</id><summary type="html">&lt;p&gt;第七週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第七週上課心得整理&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
+&lt;p&gt;虛擬主機用brigde(橋接)網路的話，網路位階會相同。&lt;/p&gt;
+&lt;p&gt;IPV4:140.130.17.3&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;         140.130.1.2
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;IPV6:2001:288:6004:17::3(系)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;         2001:288:6004:1::2(校)
+
+         2001:b000:168::1(hinet)
+&lt;/pre&gt;&lt;/div&gt;</content><category term="gain"></category></entry><entry><title>第六週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w6-gain.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623110/blog/40623110-w6-gain.html</id><summary type="html">&lt;p&gt;第六週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第六週上課心得整理&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://github.com/chiamingyen/cmsimfly/blob/gh-pages/flaskapp.py"&gt;點我前往&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;舊版的Cmsimfly沒辦法處理排序(h1,h2,h3)的問題，需點上面的連結去更新自己所使用的資料夾中的flaskapp.py，但是如果進入其他架構模式的話會亂掉，解決方法是去Leo Editer打開cmsimfly.leo，在裡面的編輯flaskapp.py下插入一個NewHeadline，把名字改成auto flaskapp來取代clean，auto可以直接從外面把python程式拉進來，且按照它的類別跟函式來擺放，創好之後要refresh from disk意思就是說叫Leo把flaskapp的架構排好，排好之後因為裡面的分支後面會有(flaskapp.py)，如果要把(flaskapp.py)弄掉的話，需要去下面的Find裡面做更改，將Suboutline打勾、find的後面輸入(flaskapp.py)、Replace後面保持空白、按下Replace All就能做更改，再來就能夠把clean flaskapp刪除，再將auto flaskapp的名稱改成clean flaskapp，再儲存→yes就完成了。&lt;/p&gt;
-&lt;p&gt;動態網頁就是python寫的wsgi.py程式，但是github沒有支援python，沒辦法把動態的架構直接搬到github上，需要先把網頁轉成靜態的，因為動態的沒辦法上github pages，所以它會轉成html存在content下，這也就是為什麼每次近端更新完東西後都還要轉成靜態網頁的原因了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第五週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w5-gain.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623110/blog/40623110-w5-gain.html</id><summary type="html">&lt;p&gt;第五週上課心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第五週上課心得&lt;/p&gt;
+&lt;p&gt;動態網頁就是python寫的wsgi.py程式，但是github沒有支援python，沒辦法把動態的架構直接搬到github上，需要先把網頁轉成靜態的，因為動態的沒辦法上github pages，所以它會轉成html存在content下，這也就是為什麼每次近端更新完東西後都還要轉成靜態網頁的原因了。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第五週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w5-gain.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623110/blog/40623110-w5-gain.html</id><summary type="html">&lt;p&gt;第五週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第五週上課心得整理&lt;/p&gt;
 
 
-&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;Onshape可在同一個文件內放好幾個零件圖。&lt;/p&gt;
-&lt;p&gt;如何使用variable去定義簡化繪圖流程，意思就是說往後的圖都能夠用同一個變數去做變動尺寸，但是前提是圖形要有關聯性。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第四週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w4-gain.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623110/blog/40623110-w4-gain.html</id><summary type="html">&lt;p&gt;第四週上課心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第四週上課心得&lt;/p&gt;
+&lt;p&gt;如何使用variable去定義簡化繪圖流程，意思就是說往後的圖都能夠用同一個變數去做變動尺寸，但是前提是圖形要有關聯性。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第四週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w4-gain.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623110/blog/40623110-w4-gain.html</id><summary type="html">&lt;p&gt;第四週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第四週上課心得整理&lt;/p&gt;
 
 
-&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;解決在近端更新資料會出現Builtins IndexError的問題。&lt;/p&gt;
 &lt;p&gt;解決方法:更新隨身碟裡面的p37的flaskapp.py的程式碼，點我取得程式碼，將程式碼全部複製起來(點Raw才能Ctrl+a再用Ctrl+c)，然後把flaskapp.py拉到空白的SciTE上，在把新的程式碼覆蓋上去即可。&lt;/p&gt;
-&lt;p&gt;切記不能在剛更新完flaskapp.py的時候就去cmd裡面想要git pull遠端，這樣會造成近端的資料全部不見，只能用git clone。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第三週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w3-gain.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623110/blog/40623110-w3-gain.html</id><summary type="html">&lt;p&gt;第三週上課心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第三週上課心得&lt;/p&gt;
+&lt;p&gt;切記不能在剛更新完flaskapp.py的時候就去cmd裡面想要git pull遠端，這樣會造成近端的資料全部不見，只能用git clone。&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第三週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w3-gain.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623110/blog/40623110-w3-gain.html</id><summary type="html">&lt;p&gt;第三週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第三週上課心得整理&lt;/p&gt;
 
 
-&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;在test的資料夾下，在cmd輸入git init，會使其資料夾中出現.git的檔案。&lt;/p&gt;
 &lt;p&gt;在test的資料夾下，創建myprogram.txt去Scite更改內容，每次更改完最好都要有清楚的commit的名稱，方便今後去更改到自己要使用的版本。(需要git add . 與 git commit -m "
 xxx" 與 git push )。&lt;/p&gt;
 &lt;p&gt;git checkout xxxxxxx 可用來切換版本&lt;/p&gt;
-&lt;p&gt;git init 讓資料夾出現.git檔案&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第二週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w2-gain.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623110/blog/40623110-w2-gain.html</id><summary type="html">&lt;p&gt;第二週上課心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第二週上課心得&lt;/p&gt;
+&lt;p&gt;git init 讓資料夾出現.git檔案&lt;/p&gt;</content><category term="gain"></category></entry><entry><title>第二週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w2-gain.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623110/blog/40623110-w2-gain.html</id><summary type="html">&lt;p&gt;第二週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第二週上課心得整理&lt;/p&gt;
 
 
-&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;ShareX&lt;/p&gt;
 &lt;p&gt;錄影=Shift+print Screen&lt;/p&gt;
 &lt;p&gt;截圖=Ctrl+print Screen&lt;/p&gt;
@@ -44,9 +66,9 @@ xxx" 與 git push )。&lt;/p&gt;
 &lt;p&gt;文件的資料會存在 Y:/tmp/site/downloads&lt;/p&gt;
 &lt;p&gt;config→reveal.leo可以更改投影片&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;          →pelican.leo可以用來轉近端or遠端
-&lt;/pre&gt;&lt;/div&gt;</content><category term="gain"></category></entry><entry><title>第一週上課心得</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w1-gain.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623110/blog/40623110-w1-gain.html</id><summary type="html">&lt;p&gt;第一週上課心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第一週上課心得&lt;/p&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="gain"></category></entry><entry><title>第一週上課心得整理</title><link href="https://mdecadp2018.github.io/site-40623110/blog/40623110-w1-gain.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623110</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623110/blog/40623110-w1-gain.html</id><summary type="html">&lt;p&gt;第一週上課心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第一週上課心得整理&lt;/p&gt;
 
 
-&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;h2&gt;上課心得整理&lt;/h2&gt;
 &lt;p&gt;學習如何解決git push的問題，並找出其問題所在。 &lt;/p&gt;</content><category term="gain"></category></entry></feed>
