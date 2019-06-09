@@ -15,7 +15,7 @@
 </v>
 <v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
 <v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
@@ -692,7 +692,8 @@ make.start()
 </t>
 <t tx="leo.20190610005622.16">[第一次的更改](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/%E8%A8%AD%E8%A8%88%E8%88%87%E6%A8%A1%E6%93%AC%E5%BD%B1%E7%89%87.html)
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?time_continue=1&amp;v=7sOUTRGeuvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?time_continue=1&amp;v=7sOUTRGeuvc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+
 </t>
 <t tx="leo.20190610005622.17">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1041,7 +1042,7 @@ Created by [40623110](https://github.com/40623110)
 
 						
 </t>
-<t tx="leo.20190610024945.2">###模擬影片
+<t tx="leo.20190610024945.2">模擬影片
 
 影片是從mesh開始到調整零件之間的從屬關係再到能夠讓球成功的進入球場。
 
@@ -1057,7 +1058,7 @@ Created by [40623110](https://github.com/40623110)
 
 						
 </t>
-<t tx="leo.20190610024947.2">###搭配程式 用按鍵操作手足球員
+<t tx="leo.20190610024947.2">搭配程式 用按鍵操作手足球員
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=CfAQaw6XRGc&amp;t" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
