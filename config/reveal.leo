@@ -648,8 +648,7 @@ make.start()
 </t>
 <t tx="leo.20190610005622.11">## 大綱
 
-* 手足球及迴球系統功能
-* Onshape迴球機構的繪製
+* 手足球設計與Onshape迴球機構的繪製
 * Vrep模擬
 * 倉儲推送紀錄
 * 在小組負責的內容
@@ -672,7 +671,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190610005622.14">## 手足球場與迴球機構的構想
+<t tx="leo.20190610005622.14">## 手足球場的構想
 ### 一開始對於手足球桌的設計
 
 [細部尺寸](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%B0%BA%E5%AF%B8%E5%88%86%E6%9E%90.html)
@@ -694,7 +693,11 @@ make.start()
 </t>
 <t tx="leo.20190610005622.16">[第一次更改](https://www.youtube.com/watch?time_continue=1&amp;v=7sOUTRGeuvc)
 
-&lt;img src="../images/第一次.PNG"  width="400px"&gt;</t>
+更改的原因:因為當初沒有考慮到迴球機構的關係。
+
+&lt;img src="../images/第一次.PNG"  width="400px"&gt;
+
+</t>
 <t tx="leo.20190610005622.17">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -707,6 +710,8 @@ make.start()
 						
 </t>
 <t tx="leo.20190610005622.18">[第二次更改](https://www.youtube.com/watch?v=O3kcxMwShjc)
+
+更改原因:因為當初的軌道設計不良，導致球會卡在軌道中間，而沒辦法順利地降下來。
 
 &lt;img src="../images/第二次.PNG"  width="400px"&gt;
 
@@ -729,6 +734,7 @@ make.start()
 &lt;/html&gt;
 </t>
 <t tx="leo.20190610005622.20">最終的球檯
+
 
 &lt;img src="../images/最終更改.PNG"  width="400px"&gt;
 
@@ -805,10 +811,11 @@ make.start()
 <t tx="leo.20190610005622.32">最終球檯的模擬
 
 經由組員的討論，所討論出的球檯的最終樣子。
-
 [模擬影片](https://www.youtube.com/watch?v=7tYCtVdMncM)
 
-&lt;img src="../images/模擬3.PNG"  width="400px"&gt;</t>
+&lt;img src="../images/模擬3.PNG"  width="400px"&gt;
+
+</t>
 <t tx="leo.20190610005622.33">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -843,7 +850,7 @@ make.start()
 </t>
 <t tx="leo.20190610005622.37">### 在小組負責的內容
 
-在小組裡我是負責迴球機構的設計與該迴球機構的Onshape繪製以及迴球機構的V-rep模擬，在最後也與負責程式開發的同學協同成功，讓按鍵對打、人與電腦、電腦與電腦，能夠順利地進行。
+在剛分完期末報告的組別時，就已經將各種工作做好分工了，在小組裡我是負責迴球機構的設計與迴球機構的Onshape繪製以及迴球機構的V-rep模擬，包括了旋轉軸與零件的從屬關係的配置，以及零件與零件之間的碰撞與動力，在最後也與負責程式開發的同學進行協同，讓按鍵對打、人與電腦、電腦與電腦，能夠順利地進行。
 
 </t>
 <t tx="leo.20190610005622.38">&lt;section data-markdown&gt;
@@ -1046,11 +1053,13 @@ Created by [40623110](https://github.com/40623110)
 
 						
 </t>
-<t tx="leo.20190610024945.2">影片是從mesh開始到調整零件之間的從屬關係再到能夠讓球成功的進入球場。
+<t tx="leo.20190610024945.2">影片是從mesh開始到調整零件之間的從屬關係再到能夠讓球成功進入球場的影片。
 
 [模擬影片](https://www.youtube.com/watch?v=2yTUUQN4M8g)
 
-&lt;img src="../images/模擬1.PNG"  width="400px"&gt;</t>
+&lt;img src="../images/模擬1.PNG"  width="400px"&gt;
+
+</t>
 <t tx="leo.20190610024947.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1064,8 +1073,11 @@ Created by [40623110](https://github.com/40623110)
 </t>
 <t tx="leo.20190610024947.2">搭配程式 用按鍵操作手足球員
 
+此影片已經可以進行雙人的手足球對打。
 [模擬影片](https://www.youtube.com/watch?v=CfAQaw6XRGc&amp;t)
 
-&lt;img src="../images/模擬2.PNG"  width="400px"&gt;</t>
+&lt;img src="../images/模擬2.PNG"  width="400px"&gt;
+
+</t>
 </tnodes>
 </leo_file>
