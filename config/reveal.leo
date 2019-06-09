@@ -690,11 +690,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190610005622.16">[第一次的更改](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/%E8%A8%AD%E8%A8%88%E8%88%87%E6%A8%A1%E6%93%AC%E5%BD%B1%E7%89%87.html)
+<t tx="leo.20190610005622.16">[第一次更改](https://www.youtube.com/watch?time_continue=1&amp;v=7sOUTRGeuvc)
 
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?time_continue=1&amp;v=7sOUTRGeuvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;img src="../images/第一次.PNG"  width="400px"&gt;</t>
 <t tx="leo.20190610005622.17">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -706,9 +704,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190610005622.18">[第二次的更改](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/%E8%A8%AD%E8%A8%88%E8%88%87%E6%A8%A1%E6%93%AC%E5%BD%B1%E7%89%87.html)
+<t tx="leo.20190610005622.18">[第二次更改](https://www.youtube.com/watch?v=O3kcxMwShjc)
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=O3kcxMwShjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="../images/第二次.PNG"  width="400px"&gt;
 
 
 </t>
@@ -802,11 +800,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190610005622.32">### 最終球檯的模擬
+<t tx="leo.20190610005622.32">最終球檯的模擬
 
 經由組員的討論，所討論出的球檯的最終樣子。
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=7tYCtVdMncM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+[模擬影片](https://www.youtube.com/watch?v=7tYCtVdMncM)
+
+&lt;img src="../images/模擬3.PNG"  width="400px"&gt;</t>
 <t tx="leo.20190610005622.33">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -841,7 +841,9 @@ make.start()
 </t>
 <t tx="leo.20190610005622.37">### 在小組負責的內容
 
-在小組裡我是負責迴球機構的設計與該迴球機構的Onshape繪製以及迴球機構的V-rep模擬，在最後也與負責程式開發的同學協同成功，讓按鍵對打、人與電腦、電腦與電腦，能夠順利地進行。</t>
+在小組裡我是負責迴球機構的設計與該迴球機構的Onshape繪製以及迴球機構的V-rep模擬，在最後也與負責程式開發的同學協同成功，讓按鍵對打、人與電腦、電腦與電腦，能夠順利地進行。
+
+</t>
 <t tx="leo.20190610005622.38">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1042,11 +1044,11 @@ Created by [40623110](https://github.com/40623110)
 
 						
 </t>
-<t tx="leo.20190610024945.2">模擬影片
+<t tx="leo.20190610024945.2">影片是從mesh開始到調整零件之間的從屬關係再到能夠讓球成功的進入球場。
 
-影片是從mesh開始到調整零件之間的從屬關係再到能夠讓球成功的進入球場。
+[模擬影片](https://www.youtube.com/watch?v=2yTUUQN4M8g)
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=2yTUUQN4M8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;img src="../images/模擬1.PNG"  width="400px"&gt;</t>
 <t tx="leo.20190610024947.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1060,7 +1062,8 @@ Created by [40623110](https://github.com/40623110)
 </t>
 <t tx="leo.20190610024947.2">搭配程式 用按鍵操作手足球員
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=CfAQaw6XRGc&amp;t" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+[模擬影片](https://www.youtube.com/watch?v=CfAQaw6XRGc&amp;t)
+
+&lt;img src="../images/模擬2.PNG"  width="400px"&gt;</t>
 </tnodes>
 </leo_file>
